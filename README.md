@@ -1,4 +1,7 @@
 # CPU
+
+This is what it should look like : https://i.imgur.com/cNXaQEV_d.webp?maxwidth=760&fidelity=grand
+
 Things you need to run first before you build or else it won't work:
 
 - `npm install electron -g`
